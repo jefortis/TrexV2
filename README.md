@@ -1,2 +1,2 @@
-# TrexV2
-TrexV2
+# TrexColorInicioV2
+Trex a color antes de windowWidth y windowHeight
